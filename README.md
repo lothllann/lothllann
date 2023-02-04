@@ -7,7 +7,7 @@
 
 
 <div align="right">
- <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lothllann&layout=compact&theme=synthwave&hide_border=true" />
+ <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lothllann&layout=compact&theme=dracula&hide_border=true" />
 </div> 
 
 
